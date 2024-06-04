@@ -1,10 +1,10 @@
-#JAVA - PASSWORD GENERATOR
+# JAVA - PASSWORD GENERATOR
 
 A simple password generator.
 
 ask for infos to users with system.out and gather them with scanner(system.in)
 
-###infos:
+### infos:
    1. name
    2. last name
    3. favorite color
