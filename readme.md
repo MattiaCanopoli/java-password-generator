@@ -15,4 +15,3 @@ ask for infos to users with system.out and gather them with scanner(system.in)
 sum year + month + day
 
 print a string with concatenation of name, last name, color and sum
-  
