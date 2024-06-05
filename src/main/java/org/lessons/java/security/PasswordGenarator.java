@@ -4,12 +4,6 @@ import java.util.Scanner;
 
 public class PasswordGenarator {
 
-	// da chiedere:
-	// 1. la somma deve essere castata in short perchè sommando le variabili il
-	// typo diventa int
-	// 2. scanner is never closed
-	// 3. project ha no explicit encoding
-
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in); // Initialize a scanner variable
